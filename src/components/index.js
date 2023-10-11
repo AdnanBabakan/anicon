@@ -1,0 +1,1 @@
+export {default as AniScroll} from './ani/tech/AniScroll.vue'
